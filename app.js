@@ -35,7 +35,7 @@ class inicioPAM {
   }
 }
 
-const inicio = new inicioPAM(); //creo mi objeto, mi variable es inicio
+const inicio = new inicioPAM(); //creo mi objeto, mi variable es inicio.
 
 function mostrar(opcion) {
   let lista = [];
