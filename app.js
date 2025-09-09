@@ -1,4 +1,4 @@
-// Clase con 4 métodos
+
 class inicioPAM {
   reglamentoPOO() {
     return [
